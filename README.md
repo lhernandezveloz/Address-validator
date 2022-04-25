@@ -13,7 +13,7 @@ Let's get the App ready to Run
 2. Let's setup the app:
     - Open your terminal/command prompt.
     - Move to ```address-validator``` directory.
-    - Run ```npm install`` to install all the dependecies.
+    - Run ```npm install``` to install all the dependecies.
 
 3. Api key setup:
     - Go to ```https://www.address-validator.net/``` and get your api key.
