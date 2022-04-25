@@ -3,7 +3,7 @@
 Let's get the App ready to Run
 
 1. Make sure that you have node js installed in your computer:
-    Chek if you have it running: ```node -v```
+    - Chek if you have it running: ```node -v```
     - No I don't have it: Go to:
     ```bash
     https://nodejs.org/en/download/
